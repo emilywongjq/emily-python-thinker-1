@@ -43,7 +43,7 @@
 # differences = variable_1 - variable_2
 # print(differences)
 
-a = 55555555
+a = 55555
 b = 345678345678
 sum = a + b
 print(sum)
