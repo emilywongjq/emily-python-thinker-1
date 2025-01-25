@@ -1,4 +1,7 @@
 # print("Hello from lesson 3")
+
+
+
 #create variable Adam =60
 #create variable brandon=58
 #create variable charlie=98
