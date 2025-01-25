@@ -28,5 +28,6 @@ print(x)
  
 
 variable_1 = 3
+variable_2 = 5
 
 
