@@ -33,5 +33,5 @@ total_sum = variable_1+variable_2
 
 print(total_sum)
 
-
+product = variable_1 
 
