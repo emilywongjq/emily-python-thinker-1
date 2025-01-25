@@ -52,5 +52,5 @@
 num1 = 10
 num2 = 50
 num3 = 3
-
+subtract = num2 - num1
 
