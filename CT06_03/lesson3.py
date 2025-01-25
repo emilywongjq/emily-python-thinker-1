@@ -14,7 +14,7 @@
 
 #print average score
 
-
+#########task 1a############
 age = 12
 print(age)
 
