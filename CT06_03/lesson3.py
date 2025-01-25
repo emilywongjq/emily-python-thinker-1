@@ -6,7 +6,7 @@ print("Hello from lesson 3")
 #create variable total_score
 #create variable average_score
 
-
+#total_score = adam
 
  
 
