@@ -29,8 +29,8 @@
 
 variable_1 = 3
 variable_2 = 5
-addtion = variable_1+variable_2
-print(total_sum)
+addition = variable_1+variable_2
+print(addition)
 
 product = variable_1 * variable_2
 print(product)
