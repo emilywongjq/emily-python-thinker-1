@@ -27,19 +27,21 @@
 
  
 
-variable_1 = 3
-variable_2 = 5
+# variable_1 = 3
+# variable_2 = 5
 
 
-addition = variable_1+variable_2
-print(addition)
+# addition = variable_1+variable_2
+# print(addition)
 
-product = variable_1 * variable_2
-print(product)
+# product = variable_1 * variable_2
+# print(product)
 
-division = variable_1 / variable_2
-print(division)
+# division = variable_1 / variable_2
+# print(division)
 
-differences = variable_1 - variable_2
-print(differences)
+# differences = variable_1 - variable_2
+# print(differences)
+
+
 
