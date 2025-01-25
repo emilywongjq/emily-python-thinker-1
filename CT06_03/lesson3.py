@@ -8,7 +8,9 @@ print("Hello from lesson 3")
 
 #total_score = adam + brandon + charlie + daniel
 #average_score = total_score / 4
-#
+
+
+#print average score
 
  
 
