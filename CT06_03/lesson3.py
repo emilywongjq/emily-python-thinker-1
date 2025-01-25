@@ -44,6 +44,6 @@
 # print(differences)
 
 a = 55555
-b = 345678345678
+b = 123456789
 sum = a + b
 print(sum)
