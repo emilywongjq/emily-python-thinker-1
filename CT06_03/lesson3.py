@@ -22,7 +22,7 @@ print(age)
 
 "x" = 10
 x = 20
-pr
+print("x")
 
  
 
