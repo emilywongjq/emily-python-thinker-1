@@ -29,5 +29,5 @@ print(x)
 
 variable_1 = 3
 variable_2 = 5
-
+total_sum = variable_1
 
