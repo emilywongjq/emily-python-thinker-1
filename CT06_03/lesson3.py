@@ -39,7 +39,6 @@ print(total_sum)
 variable_1 = input("first number")
 variable_2 = input("second number")
 total_sum = variable_1+variable_2
-
 print(total_sum)
 
 
