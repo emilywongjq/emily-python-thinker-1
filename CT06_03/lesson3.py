@@ -39,3 +39,5 @@ print(product)
 division = variable_1 / variable_2
 print(division)
 
+differences = variable_1 - variable_2
+
