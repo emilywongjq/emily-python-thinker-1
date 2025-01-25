@@ -57,4 +57,6 @@
 # print(ans)
 
 
-num1 = 
+num1 = 100
+num2 = 4
+division
