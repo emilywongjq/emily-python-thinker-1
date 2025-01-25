@@ -36,5 +36,6 @@ print(total_sum)
 product = variable_1 * variable_2
 print(product)
 
-division = variable_1 / v
+division = variable_1 / variable_2
+print(division)
 
