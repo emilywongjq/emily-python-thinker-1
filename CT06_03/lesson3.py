@@ -1,5 +1,6 @@
 print("Hello from lesson 3")
-#create variable 
+#create variable Adam   
+#crea
 
 
 
