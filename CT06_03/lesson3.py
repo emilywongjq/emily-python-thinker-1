@@ -59,4 +59,4 @@
 
 num1 = 100
 num2 = 4
-division
+division = num1 / num2
