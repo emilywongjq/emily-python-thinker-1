@@ -33,3 +33,13 @@ total_sum = variable_1+variable_2
 
 print(total_sum)
 
+
+
+
+variable_1 = input
+variable_2 = 5
+total_sum = variable_1+variable_2
+
+print(total_sum)
+
+
