@@ -15,7 +15,8 @@
 #print average score
 
 
-age 
+age = 12
+print
  
 
 
