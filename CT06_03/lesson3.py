@@ -16,7 +16,9 @@
 
 
 age = 12
-print
+print(age)
+
+
  
 
 
