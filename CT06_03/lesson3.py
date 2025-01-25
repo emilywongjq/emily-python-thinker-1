@@ -49,9 +49,12 @@
 # print(sum)
 
 
-num1 = 10
-num2 = 50
-num3 = 3
-subtract = num2 - num1
-ans = subtract * num3
-print(ans)
+# num1 = 10
+# num2 = 50
+# num3 = 3
+# subtract = num2 - num1
+# ans = subtract * num3
+# print(ans)
+
+
+num1 = 
