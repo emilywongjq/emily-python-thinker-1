@@ -18,6 +18,7 @@
 age = 12
 print(age)
 
+#########task 1b
 
  
 
