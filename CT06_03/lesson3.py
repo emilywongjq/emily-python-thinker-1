@@ -36,7 +36,7 @@ print(total_sum)
 
 
 
-variable_1 = input("whats ")
+variable_1 = input("first number")
 variable_2 = 5
 total_sum = variable_1+variable_2
 
