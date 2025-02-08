@@ -1,2 +1,3 @@
 print("Hello from lesson 4")
-print("")
+print("こんにちは
+Kon'nichiwa")
