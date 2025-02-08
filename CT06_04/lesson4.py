@@ -24,6 +24,6 @@ print("My favourite colour is "+ colour)
 age = input("What is your age?")
 print("My age is "+ age)
 
-print("This is extra...if dont want dont answer")
+print("This is extra...if dont want dont answer(type nil)")
 comment = input("Any comments?")
 print("my comments are/is: "+ comment)
