@@ -33,7 +33,7 @@ name = input("What is ur name?")
 print("hi🐍🐉🦕🦖🐢🦎🐊, "+ name )
 
 hobby = input("What is your favourite hobby?")
-print("I enjoy🛹🛼🚲🛴🛵🏍️🏎️🚄✈️🪂🚀 "+ hobby)
+print("I enjoy🛹🛼🚲🛴🛵🏍️🏎️ "+ hobby)
 
 place = input("Where is your dream vacation?")
 print("I would like to go to "+ place)
