@@ -32,5 +32,5 @@
 name = input("What is ur name?")
 print("hi, "+ name)
 
-hobby = input("What is your favourite hobby?"
-              )
+hobby = input("What is your favourite hobby?")
+print()
