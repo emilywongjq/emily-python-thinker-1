@@ -9,3 +9,4 @@ red_plates = 3
 blue_plates = 5
 green_plates = 4
 
+total_amt = 
