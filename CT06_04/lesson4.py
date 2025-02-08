@@ -26,4 +26,4 @@ print("My age is "+ age)
 
 print("This is extra...if dont want dont answer")
 comment = input("Any comments?")
-print("my comments are/is"+ comment)
+print("my comments are/is: "+ comment)
