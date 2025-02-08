@@ -22,4 +22,4 @@ colour = input("What is your favourite colour?")
 print("My favourite colour is "+ colour)
 
 age = input("What is your age?")
-print("My age is ")
+print("My age is "+age)
