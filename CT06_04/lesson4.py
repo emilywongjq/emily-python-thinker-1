@@ -22,7 +22,7 @@ colour = input("What is your favourite colour?")
 print("My favourite colour is "+ colour)
 
 age = input("What is your age?")
-print("My age😶‍🌫️ is "+ age)
+print("My age😶‍🌫️🧓 is "+ age)
 
 print("This is extra...if dont want dont answer(type nil)")
 comment = input("Any comments?")
