@@ -15,15 +15,17 @@
 
 
 
-name = input("What is your name?")
-print("My name😺 is " + name)
+# name = input("What is your name?")
+# print("My name😺 is " + name)
 
-colour = input("What is your favourite colour?")
-print("My favourite colour❤️🧡💛💚🩵💙💜🩷🤎🖤🩶🤍 is "+ colour)
+# colour = input("What is your favourite colour?")
+# print("My favourite colour❤️🧡💛💚🩵💙💜🩷🤎🖤🩶🤍 is "+ colour)
 
-age = input("What is your age?")
-print("My age😶‍🌫️🧓 is "+ age)
+# age = input("What is your age?")
+# print("My age😶‍🌫️🧓 is "+ age)
 
-print("This is extra...if dont want dont answer(type nil)")
-comment = input("Any comments?")
-print("my comment🤣is: "+ comment)
+# print("This is extra...if dont want dont answer(type nil)")
+# comment = input("Any comments?")
+# print("my comment🤣is: "+ comment)
+
+
