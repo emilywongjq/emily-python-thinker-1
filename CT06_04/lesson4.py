@@ -29,4 +29,5 @@
 # print("my comment🤣is: "+ comment)
 
 
-name = input("")
+name = input("What is ur name?")
+print
