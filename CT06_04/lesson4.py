@@ -35,4 +35,5 @@ print("hi, "+ name)
 hobby = input("What is your favourite hobby?")
 print("I enjoy "+ hobby)
 
-place = input()
+place = input("Where is your dream vacation?")
+print
