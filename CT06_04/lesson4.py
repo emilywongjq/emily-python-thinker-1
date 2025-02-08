@@ -30,4 +30,5 @@
 
 
 name = input("What is ur name?")
-print("hi, ")
+print("hi, "+ name)
+
