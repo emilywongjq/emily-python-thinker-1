@@ -11,3 +11,8 @@
 
 # total_amt = (red_plates*red_price)+(blue_price*blue_plates)+(green_plates*green_price)
 # print(total_amt)
+
+
+
+
+name = inpu
