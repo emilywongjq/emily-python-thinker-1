@@ -36,4 +36,4 @@ hobby = input("What is your favourite hobby?")
 print("I enjoy🥎🏀🏐🏈🎱🤿"+ hobby)
 
 place = input("Where is your dream vacation?")
-print("I would like to go to "+ place)
+print("I would like to go to🪬 "+ place)
