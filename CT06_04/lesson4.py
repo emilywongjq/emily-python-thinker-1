@@ -30,7 +30,7 @@ print("my comment🤣is: "+ comment)
 
 
 name = input("What is ur name?")
-print("hi🐍🐉🦕🦖🐢🦎🐊, "+ name )
+print("hi, "+ name )
 
 hobby = input("What is your favourite hobby?")
 print("I enjoy🥎🏀🏐🏈🎱🤿 "+ hobby)
