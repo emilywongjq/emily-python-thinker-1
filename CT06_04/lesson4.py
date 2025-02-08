@@ -23,3 +23,5 @@ print("My favourite colour is "+ colour)
 
 age = input("What is your age?")
 print("My age is "+ age)
+
+comment = input
