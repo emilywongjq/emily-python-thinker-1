@@ -10,3 +10,4 @@ blue_plates = 5
 green_plates = 4
 
 total_amt = (red_plates*red_plates)+(blue_price*blue_plates)+(green_plates*green_price)
+print(total_amt)
