@@ -75,11 +75,4 @@ ans = c - b
 
 
 
-
-
-
-
-
-
-
 print(ans)
