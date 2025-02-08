@@ -18,4 +18,4 @@
 name = input("What is your name?")
 print(name)
 
-colour = input
+colour = input("What")
