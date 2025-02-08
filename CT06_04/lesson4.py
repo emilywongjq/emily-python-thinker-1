@@ -32,3 +32,4 @@
 name = input("What is ur name?")
 print("hi, "+ name)
 
+hobby = input()
