@@ -19,4 +19,4 @@ name = input("What is your name?")
 print("My name is " + name)
 
 colour = input("What is your favourite colour?")
-print("My favou")
+print("My favourite colour is ")
