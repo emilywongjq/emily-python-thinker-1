@@ -15,4 +15,4 @@
 
 
 
-name = inpu
+name = input("")
