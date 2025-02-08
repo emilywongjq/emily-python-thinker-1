@@ -16,6 +16,6 @@
 
 
 name = input("What is your name?")
-print(name)
+print("My name is " + name)
 
 colour = input("What")
