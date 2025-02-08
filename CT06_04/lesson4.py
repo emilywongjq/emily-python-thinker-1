@@ -17,4 +17,5 @@
 
 name = input("What is your name?")
 
-print(input)
+print(name)
+
