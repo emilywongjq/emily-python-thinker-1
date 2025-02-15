@@ -8,9 +8,9 @@ print("Next year, you would be "+ str(age)+" years old.")
 
 number = input("Pick a number from 1-1000")
 double = number*2
-print("Double your number is "+ str(double)+" .")
+print("Double your number is "+ str(double) +" .")
 
 year = input("What year were you born in?")
 current_year = 2025
 age2 =  current_year-year
-print("You are "+str(age2)+" years old")
+print("You are "+ str(age2) +" years old")
