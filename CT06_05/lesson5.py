@@ -11,3 +11,4 @@ double = number*2
 print("Double your number is "+ str(double)+" .")
 
 year = input("What year were you born in?")
+current_year = 2025
