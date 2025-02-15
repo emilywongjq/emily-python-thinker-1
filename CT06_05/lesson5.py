@@ -2,3 +2,4 @@
 # print("レッスン 5 からこんにちは")
 
 
+age = input("Wha")
