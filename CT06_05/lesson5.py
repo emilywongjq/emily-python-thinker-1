@@ -40,4 +40,8 @@
 #     print(f)
 
 start = int(input("What number do you want to start with?"))
-stop = int(input())
+stop = int(input("What number do you want to end at?"))
+
+if start < stop :
+    for i in range(start,stop+1):
+        print(i)
