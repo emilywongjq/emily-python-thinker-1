@@ -9,7 +9,7 @@
 
 # print(score/students)
 
-# ____________ ____________
+# ________________________
 ## Task 1: Syntax Errors
 # Fix the errors in the following:
 
