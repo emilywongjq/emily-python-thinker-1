@@ -7,4 +7,4 @@ score = 0
 for i in range(students):
     score = score + int(input("What is the score of this pupil?"))
 
-print
+print(score/students)
