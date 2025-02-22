@@ -35,6 +35,6 @@ for e in range(2,26,2):
 #######task#5b#########
 for i in range(8,97,8):
     print(i)
-#######task#5
+#######task#5c#########
 for f in range(5,0,-1):
     print(f)
