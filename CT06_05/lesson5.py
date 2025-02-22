@@ -1,16 +1,31 @@
 # print("Hello from lesson 5!")
 # print("レッスン 5 からこんにちは")
 
+# name = input("What is the birthday person's name?")
+# age = input("What age are they turning?")
+# personal_msg = input("Any personal msgs?")
+# print("Happy "+ age +"th birthday "+ name + "!🥳" + personal_msg)
 
-age = input("What is your age?")
-age = age + 1
-print("Next year, you would be "+ str(age)+" years old.")
+# for i in range(10):
+#     print("Hello!")
 
-number = input("Pick a number from 1-1000")
-double = number*2
-print("Double your number is "+ str(double))
+# name = input("What is your name?")
+# for char in name:
+#     print("Give me a " + char + "!")
+# print("What do we have?")
+# print(name +" is the best!")
 
-year = input("What year were you born in?")
-current_year = 2025
-age2 =  current_year-year
-print("You are "+ str(age2) +" years old")
+
+# for i in range(100):
+#     print("I like chicken rice!")
+
+# for e in range(100):
+#     print("I like cake.")
+#     print("Give me more.")
+
+for e in range(1,6):
+    print(e)
+for z in range(51,101):
+    print(z)
+for x in range(18,30):
+    print(x)

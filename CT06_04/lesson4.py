@@ -37,3 +37,17 @@ print("I enjoy😹 "+ hobby)
 
 place = input("Where is your dream vacation?")
 print("I would like to go to😼 "+ place)
+
+
+age = int(input("What is your age?"))
+age = age + 1
+print("Next year, you would be "+ str(age)+" years old.")
+
+number = int(input("Pick a number from 1-infinity"))
+double = number*2
+print("Double your number is "+ str(double))
+
+year = int(input("What year were you born in?"))
+current_year = int(input("What is the current year?"))
+age2 =  current_year-year
+print("You are "+ str(age2) +" years old")
