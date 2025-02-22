@@ -38,3 +38,5 @@
 #######task#5c#########
 # for f in range(5,0,-1):
 #     print(f)
+
+start = int(input)
