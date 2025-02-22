@@ -33,8 +33,8 @@
 for e in range(2,26,2):
     print(e)
 
-for i in range(8,96,8):
+for i in range(8,97,8):
     print(i)
 
-for f in range(5,1,-1):
+for f in range(5,0,-1):
     print(f)
