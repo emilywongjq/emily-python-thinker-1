@@ -30,7 +30,7 @@
 # for x in range(18,30):
 #     print(x)
 
-for e in range(2,24,2):
+for e in range(2,26,2):
     print(e)
 
 for i in range(8,96,8):
