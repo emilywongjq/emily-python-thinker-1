@@ -30,3 +30,11 @@
 # for x in range(18,30):
 #     print(x)
 
+for e in range(2,24,2):
+    print(e)
+
+for i in range(8,96,8):
+    print(i)
+
+for f in range(5,1,-1):
+    print(f)
