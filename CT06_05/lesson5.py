@@ -32,7 +32,7 @@
 #######task#5b#########
 for e in range(2,26,2):
     print(e)
-#######
+#######task#5b
 for i in range(8,97,8):
     print(i)
 
