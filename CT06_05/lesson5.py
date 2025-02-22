@@ -40,4 +40,4 @@
 #     print(f)
 
 start = int(input("What number do you want to start with?"))
-stop = int
+stop = int(input())
