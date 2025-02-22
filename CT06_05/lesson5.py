@@ -23,9 +23,10 @@
 #     print("I like cake.")
 #     print("Give me more.")
 
-for e in range(1,6):
-    print(e)
-for z in range(51,101):
-    print(z)
-for x in range(18,30):
-    print(x)
+# for e in range(1,6):
+#     print(e)
+# for z in range(51,101):
+#     print(z)
+# for x in range(18,30):
+#     print(x)
+
