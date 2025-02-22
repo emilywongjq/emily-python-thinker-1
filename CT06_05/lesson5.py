@@ -39,4 +39,5 @@
 # for f in range(5,0,-1):
 #     print(f)
 
-start = int(input)
+start = int(input("What number do you want to start with?"))
+stop = int
