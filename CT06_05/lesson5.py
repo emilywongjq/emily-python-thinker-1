@@ -29,10 +29,10 @@
 #     print(z)
 # for x in range(18,30):
 #     print(x)
-#######task#5b#########
+#######task#5a#########
 for e in range(2,26,2):
     print(e)
-#######task#5b
+#######task#5b########
 for i in range(8,97,8):
     print(i)
 
