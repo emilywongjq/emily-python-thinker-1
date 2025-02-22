@@ -47,4 +47,4 @@ if start < stop :
         print(i)
 else:
     for i in range(start, stop-1 , -1):
-        
+        print(i)
