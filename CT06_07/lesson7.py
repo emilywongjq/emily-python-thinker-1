@@ -30,4 +30,4 @@
 #________________________________________________________________________
 
 
-word = input("W")
+word = input("What is a random word that you can think of?")
