@@ -40,4 +40,4 @@
 name = input("What is your name?")
 n = int(input("How many times do you want to repeat?"))
 for i in range(n):
-    print("Nice to meet you ")
+    print("Nice to meet you "+ name)
