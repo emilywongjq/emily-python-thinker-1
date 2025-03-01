@@ -32,5 +32,5 @@
 
 word = input("What word do you want to repeat?")
 n = input("How many times do you want to repeat?")
-for n in word:
-    print(n)
+for i in range(n):
+    print(word)
