@@ -56,3 +56,6 @@ sum = 0
 #________________________________________________________________________
  
 number = input("What is the number for the timestable?")
+
+for i in range(1, 13):
+    print()
