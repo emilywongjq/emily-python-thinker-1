@@ -55,4 +55,4 @@ sum = 0
 
 #________________________________________________________________________
  
-number = input("What is the number f")
+number = input("What is the number for the timestable?")
