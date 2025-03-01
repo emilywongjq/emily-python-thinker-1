@@ -31,4 +31,4 @@
 
 
 word = input("What is a random word that you can think of? That you want to repeat?")
-n = input()
+n = input("What is a random number that you can think of from 1-100?")
