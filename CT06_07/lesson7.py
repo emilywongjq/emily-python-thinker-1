@@ -30,4 +30,4 @@
 #________________________________________________________________________
 
 
-word = input("What is a random word that you can think of?")
+word = input("What is a random word that you can think of? That you want to repeat?")
