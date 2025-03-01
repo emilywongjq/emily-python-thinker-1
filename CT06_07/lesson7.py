@@ -30,7 +30,10 @@
 #________________________________________________________________________
 
 
-word = input("What word do you want to repeat?")
-n = int(input("How many times do you want to repeat?"))
-for i in range(n):
-    print(word)
+# word = input("What word do you want to repeat?")
+# n = int(input("How many times do you want to repeat?"))
+# for i in range(n):
+#     print(word)
+
+
+
