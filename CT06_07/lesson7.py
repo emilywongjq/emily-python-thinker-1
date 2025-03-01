@@ -42,5 +42,10 @@
 # for i in range(n):
 #     print("Nice to meet you "+ name)
 
+#________________________________________________________________________
+ 
 
+sum = 0
+for i in range(1, 6):
+    in
 
