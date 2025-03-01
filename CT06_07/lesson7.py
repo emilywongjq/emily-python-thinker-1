@@ -55,7 +55,7 @@ sum = 0
 
 #________________________________________________________________________
  
-number = input("What is the number for the timestable?")
+number = int(input("What is the number for the timestable?"))
 
 for i in range(1, 13):
-    print(str(number) + " x " + str(i) + " = " + i*number)
+    print(str(number) + " x " + str(i) + " = " + str(i*number))
