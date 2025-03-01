@@ -14,3 +14,7 @@
 # print ("Average score for " + student_name + " is: " + average_score)
 
 #________________________________________________________________________
+
+
+for i in range(1,11):
+    print(i)
