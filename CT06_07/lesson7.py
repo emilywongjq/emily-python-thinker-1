@@ -38,4 +38,6 @@
 
 
 name = input("What is your name?")
-n = int(input())
+n = int(input("How many times do you want to repeat?"))
+for i in range(n):
+    print()
