@@ -55,7 +55,35 @@ sum = 0
 
 #________________________________________________________________________
  
-number = int(input("What is the number for the timestable?"))
+# number = int(input("What is the number for the timestable?"))
 
-for i in range(1, 13):
-    print(str(number) + " x " + str(i) + " = " + str(i*number))
+# for i in range(1, 13):
+#     print(str(number) + " x " + str(i) + " = " + str(i*number))
+
+
+
+
+###────୨ৎ────###────୨ৎ────###────୨ৎ────###────୨ৎ────###────୨ৎ────###
+
+# num = int(input("How many layers do you want the pyramid to have: "))
+
+# for i in range(1, num + 1):
+#     print(str(i) * i)
+
+
+# total = 0
+
+# for i in range(1, 6):
+#     total = total + int(input("What is the score of student "+ str(i)))
+
+# average = total/ 5
+# print ("The average score of all 5 students is " + str(average))
+
+
+total = 0
+numStudents = int(input("How many students do you have?"))
+for i in range(1, numStudents+1):
+    total = total + int(input("What is the score of student "+ str(i) + "? "))
+
+average = total/ numStudents
+print ("The average score is " + str(average))
