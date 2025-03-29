@@ -56,4 +56,4 @@ for i in range(7):
     temp = int(input("What is today's temperature?"))
     if temp > 30 :
         pos_days += 1
-print("There are " + str(pos_days) + "")
+print("There are " + str(pos_days) + "days with the temperature over 30")
