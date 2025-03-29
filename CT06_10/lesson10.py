@@ -5,3 +5,4 @@ if num > 0:
     print("positive")
 else:
     print("xcvbnml;[poiuytrertyuiop'/.,mnbvcxsaqw345678ol,mnbvfrt]")
+    print("ERROR")
