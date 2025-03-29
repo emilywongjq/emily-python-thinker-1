@@ -26,7 +26,7 @@
 
 score = int(input("What is your score"))
 if score == 100 :
-    print
+    print("A+")
 elif score > 90 :
     print("A")
 elif score > 80 :
