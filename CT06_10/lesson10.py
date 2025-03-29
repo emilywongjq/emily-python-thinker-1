@@ -9,8 +9,9 @@
 #     print("Negative")
 #     print("Conclusion: You are an alien")
 
-num = int(input("What is a random number you can think of?"))
-if num % 2 == 0:
-    print("That random number is even")
-else:
-    print("That number is odd")
+# num = int(input("What is a random number you can think of?"))
+# if num % 2 == 0:
+#     print("That random number is even")
+# else:
+#     print("That number is odd")
+
