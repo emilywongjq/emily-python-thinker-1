@@ -58,11 +58,3 @@
 #         pos_days += 1
 # print("There are " + str(pos_days) + " day(s) with the temperature over 30°c")
 
-
-desirable = 0
-undesirable = 0
-for i in range(10):
-    if 1 < 10:
-        rating = int(input("How many ⭐ do you rate?"))
-        if rating > 3:
-            de
