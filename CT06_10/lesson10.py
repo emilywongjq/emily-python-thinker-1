@@ -10,7 +10,7 @@
 #     print("Conclusion: You are an alien")
 
 num = int(input("What is a random number you can think of?"))
-if num / 0:
+if num % 2 == 0:
     print("This random number is even")
 else:
     print("This number is odd")
