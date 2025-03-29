@@ -34,4 +34,4 @@ elif score > 70 :
 elif score > 60 :
     print("D")
 else:
-    print("Your a fail")
+    print("Your a failiure")
