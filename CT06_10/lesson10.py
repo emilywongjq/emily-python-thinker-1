@@ -4,6 +4,6 @@ num = int(input("Guess a number...."))
 if num > 0:
     print("positive")
 else:
-    print("xcvbnml;[poiuytrertyuiop'/.,mnbvcxsaqw345678ol,masdfghjklkjhgfddfghgfddfuhgfxghgcxcvbnm,mnbvcvbnmnhynnbhnhybnbvfrt]")
+    print("hybnbvfrt]")
     print("ERROR")
     print("Negative")
