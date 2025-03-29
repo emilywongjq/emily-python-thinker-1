@@ -51,3 +51,4 @@
 
 # print(cost_apples + cost_oranges)
 
+pos_days = 0
