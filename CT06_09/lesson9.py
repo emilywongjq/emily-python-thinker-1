@@ -59,3 +59,8 @@
 # print("There are " + str(pos_days) + " day(s) with the temperature over 30°c")
 
 
+desirable = 0
+undesirable = 0
+for i in range(10):
+    if 1 < 10:
+        
