@@ -6,3 +6,4 @@ if num > 0:
 else:
     print("xcvbnml;[poiuytrertyuiop'/.,mnbvcxsaqw345678ol,mnbvfrt]")
     print("ERROR")
+    print("Negative")
