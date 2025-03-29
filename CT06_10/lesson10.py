@@ -24,3 +24,4 @@
 # else:
 #     print("adult")
 
+score = int(input(""))
