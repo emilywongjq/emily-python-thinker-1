@@ -57,4 +57,3 @@
 #     if temp > 30 :
 #         pos_days += 1
 # print("There are " + str(pos_days) + " day(s) with the temperature over 30°c")
-
