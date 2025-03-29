@@ -11,6 +11,6 @@
 
 num = int(input("What is a random number you can think of?"))
 if num % 2 == 0:
-    print("This random number is even")
+    print("That random number is even")
 else:
-    print("This number is odd")
+    print("That number is odd")
