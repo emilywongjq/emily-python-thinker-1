@@ -24,7 +24,7 @@
 # else:
 #     print("adult")
 
-score = int(input("What is your score"))
+score = int(input("What is your score ? :"))
 if score == 100 :
     print("A+")
 elif score >= 90 :
