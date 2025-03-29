@@ -53,4 +53,6 @@
 
 pos_days = 0
 for i in range(7):
-    tempint(input("What is today's temperature?"))
+    temp = int(input("What is today's temperature?"))
+    if temp > 30 :
+        positive
