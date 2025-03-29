@@ -19,8 +19,7 @@ age = int(input("What is your age?"))
 
 if age < 12:
     print("child")
-else:
-    if age < 19:
+elif age < 19:
         print("teen")
-    else:
+else:
         print("adult")
