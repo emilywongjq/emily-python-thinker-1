@@ -52,3 +52,5 @@
 # print(cost_apples + cost_oranges)
 
 pos_days = 0
+for i in range(7):
+    input("")
