@@ -50,9 +50,27 @@
 
 ###────୨ৎ────###────୨ৎ────###────୨ৎ────###────୨ৎ────###────୨ৎ────###
 
-import random
-num1 = random.randint(1,50)
-num2 = random.randint(1,50)
+# import random
+# num1 = random.randint(1,50)
+# num2 = random.randint(1,50)
 
-answer = int(input("What is the sum of "+ str(num1) + "+" + str(num2)+ "? "))
-print(answer == (num1 + num2))
+# answer = int(input("What is the sum of "+ str(num1) + "+" + str(num2)+ "? "))
+# print(answer == (num1 + num2))
+
+
+# import random
+# guess = int(input("What is your guess? "))
+# number =  random.randint(1,10)
+
+# print("Guess : " + str(guess))
+# print("The number was : " + str(number))
+# print(guess == number)
+
+# import random
+# noOfQns = int(input("How many question do you want to do? "))
+# for i in range(noOfQns):
+#     num1 = random.randint(1,100)
+#     num2 = random.randint(1,12)
+#     userInput = int(input("What is " + str(num1) + " x " + str(num2) + "? "))
+#     answer = num1 * num2
+#     print(userInput == answer)
