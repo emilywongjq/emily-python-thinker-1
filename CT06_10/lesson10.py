@@ -10,3 +10,5 @@
 #     print("Conclusion: You are an alien")
 
 num = int(input("What is a random number you can think of?"))
+if num % 0:
+    
