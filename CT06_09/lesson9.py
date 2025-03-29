@@ -32,21 +32,21 @@
 
 
 
-price_apples = 0.6
-price_oranges = 0.9
-cost_apples = 0
-cost_oranges = 0
-num_apples = int(input("How many apples do you want to buy? "))
-num_oranges = int(input("How many oranges do you want to buy? "))
+# price_apples = 0.6
+# price_oranges = 0.9
+# cost_apples = 0
+# cost_oranges = 0
+# num_apples = int(input("How many apples do you want to buy? "))
+# num_oranges = int(input("How many oranges do you want to buy? "))
 
-if num_apples > 5 :
-    cost_apples = num_apples*price_apples*0.9
-else:
-    cost_apples = num_apples * price_apples
+# if num_apples > 5 :
+#     cost_apples = num_apples*price_apples*0.9
+# else:
+#     cost_apples = num_apples * price_apples
 
-if num_oranges > 5 : 
-    cost_oranges = num_oranges * price_oranges * 0.9
-else:
-    cost_oranges = num_apples * price_oranges
+# if num_oranges > 5 : 
+#     cost_oranges = num_oranges * price_oranges * 0.9
+# else:
+#     cost_oranges = num_apples * price_oranges
 
-print(cost_apples + cost_oranges)
+# print(cost_apples + cost_oranges)
