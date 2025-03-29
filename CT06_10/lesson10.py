@@ -9,4 +9,4 @@
 #     print("Negative")
 #     print("Conclusion: You are an alien")
 
-num = 
+num = int(input("What is"))
