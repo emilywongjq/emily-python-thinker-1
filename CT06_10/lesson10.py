@@ -15,3 +15,4 @@
 # else:
 #     print("That number is odd")
 
+age = int(input(""))
