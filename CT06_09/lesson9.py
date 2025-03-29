@@ -53,5 +53,4 @@
 
 pos_days = 0
 for i in range(7):
-    int(input("What is today's temperature?"))
-    
+    tempint(input("What is today's temperature?"))
