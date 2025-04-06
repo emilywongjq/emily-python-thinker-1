@@ -60,4 +60,4 @@ username = "John123"
 pwd = "pw123"
 
 user_username = input("What is your username?")
-user_pwd = input
+user_pwd = input("What is the password")
