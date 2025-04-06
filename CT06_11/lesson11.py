@@ -46,3 +46,5 @@
 #     print("Sry but ur ticket price is $20")
 
 pwd = input("What is the password?")
+if not pwd == "Python123" :
+    
