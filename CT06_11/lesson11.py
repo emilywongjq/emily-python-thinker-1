@@ -49,9 +49,11 @@
 # if not pwd == "Python123" :
 #     print("Access denied")
 
-burger = input("Do you want a burger?")
-drink = input("Do you want a drink?")
-fries = input("Do you want fries?")
+# burger = input("Do you want a burger?")
+# drink = input("Do you want a drink?")
+# fries = input("Do you want fries?")
 
-if burger == 'yes' and fries == 'yes' and not drink == 'yes':
-    print("Won't you get thirsty?")
+# if burger == 'yes' and fries == 'yes' and not drink == 'yes':
+#     print("Won't you get thirsty?")
+
+username = John
