@@ -51,3 +51,4 @@
 
 burger = input("Do you want a burger?")
 drink = input("Do you want a drink?")
+fries = input("Do you want fries")
