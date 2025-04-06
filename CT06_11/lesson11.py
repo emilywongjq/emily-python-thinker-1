@@ -9,3 +9,6 @@
 # else: # else (for else, don't need condition)
 #     print("Don't even think about buying that")
 
+rider1 = 125
+rider2 = 150
+
