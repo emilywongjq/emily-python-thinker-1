@@ -57,4 +57,4 @@
 #     print("Won't you get thirsty?")
 
 username = "John123"
-pwd = ""
+pwd = "pw123"
