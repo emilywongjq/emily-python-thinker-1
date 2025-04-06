@@ -9,9 +9,10 @@
 # else: # else (for else, don't need condition)
 #     print("Don't even think about buying that")
 
-rider1 = 125
-rider2 = 150
+# rider1 = 125
+# rider2 = 150
 
-result = rider1 > 120 and rider2 > 120
+# result = rider1 > 120 and rider2 > 120
 
-print(result)
+# print(result)
+
