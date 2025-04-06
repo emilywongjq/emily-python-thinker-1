@@ -39,3 +39,4 @@
 # if rider1 >= 18 or rider2 >= 18:
 #     print("You can ride!")
 
+age = int(input("Waht is your age?"))
