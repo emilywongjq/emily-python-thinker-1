@@ -66,4 +66,7 @@ if user_username == username and user_pwd == pwd :
     print("Access Granted")
 elif not user_username == username or not user_pwd == pwd :
     print("access denied")
-    print("You will be logged out in 2 m")
+    print("You will be logged out in 2 more attempts")
+else:
+    print("access denied")
+    print("You will be logged out in 2 more attempts")
