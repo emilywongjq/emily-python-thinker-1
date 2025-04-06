@@ -26,4 +26,6 @@
 #_________________________________________________________________
 
 firstName = input("What is your first name?")
-secondName = input()
+secondName = input("What is your second name?")
+
+if firstName == "James" and secondName == "Leong"
