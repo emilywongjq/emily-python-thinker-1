@@ -41,4 +41,6 @@
 
 age = int(input("Waht is your age?"))
 if age < 12 or age > 65:
-    print()
+    print("Tcket price $15")
+else:
+    print
