@@ -64,5 +64,5 @@ user_pwd = input("What is the password")
 
 if user_username == username and user_pwd == pwd :
     print("Access Granted")
-elif not user_username == username and not user_pwd == pwd :
+elif not user_username == username or not user_pwd == pwd :
     print("access denied")
