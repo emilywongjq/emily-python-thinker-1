@@ -50,3 +50,4 @@
 #     print("Access denied")
 
 burger = input("Do you want a burger?")
+drink = input("Do you")
