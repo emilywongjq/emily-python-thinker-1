@@ -17,7 +17,9 @@
 # print(result)
 
 #_________________________________________________________________
-num1 = int(input("What is the number?"))
+# num1 = int(input("What is the number?"))
 
-if num1 % 3 == 0 and num1 % 7 == 0 :
-    print("The number is divisible by both 3 and 7!")
+# if num1 % 3 == 0 and num1 % 7 == 0 :
+#     print("The number is divisible by both 3 and 7!")
+
+
