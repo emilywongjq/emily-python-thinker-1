@@ -37,4 +37,4 @@ rider1 = 25
 ider2 = 6
 
 if rider1 >= 18 or rider2 >= 18:
-    print
+    print("You can ride!")
