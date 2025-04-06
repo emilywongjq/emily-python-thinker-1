@@ -26,3 +26,4 @@
 #_________________________________________________________________
 
 firstName = input("What is your first name?")
+secondName = input()
