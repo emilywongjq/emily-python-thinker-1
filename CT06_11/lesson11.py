@@ -47,4 +47,4 @@
 
 pwd = input("What is the password?")
 if not pwd == "Python123" :
-    
+    print("Access denied")
