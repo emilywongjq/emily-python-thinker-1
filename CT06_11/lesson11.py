@@ -5,4 +5,6 @@ if px <= 5:
 elif px <= 50:
     print("Are you sure you need this?")
 elif px <= 500:
-    print("Where are you ge")
+    print("Where are you getting the money to buy this?")
+elif px > 500: # else
+    print("")
