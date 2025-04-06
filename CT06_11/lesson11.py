@@ -25,8 +25,9 @@
 
 #_________________________________________________________________
 
-firstName = input("What is your first name?")
-secondName = input("What is your second name?")
+# firstName = input("What is your first name?")
+# secondName = input("What is your second name?")
 
-if firstName == "James" and secondName == "Leong" :
-    print("Ur wanted")
+# if firstName == "James" and secondName == "Leong" :
+#     print("Ur wanted")
+
