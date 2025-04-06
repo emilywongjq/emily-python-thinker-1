@@ -39,8 +39,10 @@
 # if rider1 >= 18 or rider2 >= 18:
 #     print("You can ride!")
 
-age = int(input("Waht is your age?"))
-if age < 12 or age > 65:
-    print("Tcket price $15")
-else:
-    print("Sry but ur ticket price is $20")
+# age = int(input("Waht is your age?"))
+# if age < 12 or age > 65:
+#     print("Tcket price $15")
+# else:
+#     print("Sry but ur ticket price is $20")
+
+pwd = inpu
