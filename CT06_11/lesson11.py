@@ -45,4 +45,4 @@
 # else:
 #     print("Sry but ur ticket price is $20")
 
-pwd = inpu
+pwd = input("What is the password?")
