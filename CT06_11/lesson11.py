@@ -56,4 +56,5 @@
 # if burger == 'yes' and fries == 'yes' and not drink == 'yes':
 #     print("Won't you get thirsty?")
 
-username = John
+username = "John123"
+pwd = ""
