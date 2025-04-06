@@ -49,4 +49,4 @@
 # if not pwd == "Python123" :
 #     print("Access denied")
 
-burger = input()
+burger = input("Do you want a burger?")
