@@ -40,3 +40,5 @@
 #     print("You can ride!")
 
 age = int(input("Waht is your age?"))
+if age < 12 or age > 65:
+    print()
