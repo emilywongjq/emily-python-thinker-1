@@ -16,6 +16,7 @@
 
 # print(result)
 
+#_________________________________________________________________
 num1 = int(input("What is the number?"))
 
 if num1 % 3 == 0 and num1 % 7 == 0 :
