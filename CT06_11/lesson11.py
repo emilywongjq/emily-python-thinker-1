@@ -58,3 +58,5 @@
 
 username = "John123"
 pwd = "pw123"
+
+user_username = input
