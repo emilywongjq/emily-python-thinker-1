@@ -6,18 +6,18 @@
 #     print("The number is divisible by 3 abd 5")
 # else:
 #     print("The number is not divisible by 3 abd 5")
+max_
+visitors = 0
+while visitors < 50 :
+    visitors += 1
+    print("Number of visitors : " + str(visitors))
 
-# visitors = 0
-# while visitors < 50 :
+# visitors = 18
+# while visitors < 30 :
 #     visitors += 1
 #     print("Number of visitors : " + str(visitors))
 
-visitors = 18
-while visitors < 30 :
-    visitors += 1
-    print("Number of visitors : " + str(visitors))
-
-visitors = 4
-while visitors < 25 :
-    visitors += 1
-    print("Number of visitors : " + str(visitors))
+# visitors = 4
+# while visitors < 25 :
+#     visitors += 1
+#     print("Number of visitors : " + str(visitors))
