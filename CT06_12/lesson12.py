@@ -8,7 +8,7 @@
 #     print("The number is not divisible by 3 abd 5")
 max_visitors = 30
 visitors = 0
-while visitors < 50 :
+while True :
     visitors += 1
     print("Number of visitors : " + str(visitors))
 
