@@ -35,3 +35,4 @@ while True :
         break
     else:
         order += "," + userInput
+print
