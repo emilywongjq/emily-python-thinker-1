@@ -15,7 +15,7 @@ while True :
         print("Number of visitors : " + str(visitors))
     if visitors == max_visitors:
         break
-print("Sry we are not ")
+print("Sry we are not able to fit you as you are too fat im sry")
 
 # visitors = 18
 # while visitors < 30 :
