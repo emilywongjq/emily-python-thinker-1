@@ -48,3 +48,12 @@ while num != 0 :
     num = num + 1
 else:
     print("Happy new year!!!")
+
+
+num = 10
+while num != 0 :
+    print(num)
+    num = num + 1
+    
+else:
+    print("Happy new year!!!")
