@@ -30,4 +30,4 @@
 order = ""
 
 while True :
-    user 
+    userInput = input
