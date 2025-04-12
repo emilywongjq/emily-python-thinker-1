@@ -30,4 +30,4 @@
 order = ""
 
 while True :
-    userInput = input
+    userInput = input("")
