@@ -55,6 +55,6 @@ while num != 0 :
     print(num)
     num = num + 1
     if num == 5:
-        brak
+        break
 else:
     print("Happy new year!!!")
