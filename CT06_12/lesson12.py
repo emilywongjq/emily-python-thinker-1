@@ -1,3 +1,3 @@
 # print("Hello from lesson 12")
 
-num = input("")
+num = input("What is a number ")
