@@ -1,1 +1,3 @@
-print("Hello from lesson 12")
+# print("Hello from lesson 12")
+
+num
