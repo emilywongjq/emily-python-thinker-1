@@ -35,4 +35,4 @@ while True :
         break
     else:
         order += "," + userInput
-print
+print(order)
