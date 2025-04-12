@@ -9,7 +9,7 @@
 max_visitors = 30
 visitors = 0
 while True :
-    zdd
+    zddVisitor == "yes"
     visitors += 1
     print("Number of visitors : " + str(visitors))
 
