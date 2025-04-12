@@ -31,4 +31,4 @@ order = ""
 
 while True :
     userInput = input("What item do you want to order?")
-    
+    order += ","
