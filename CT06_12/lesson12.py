@@ -37,6 +37,7 @@ while True :
     else:
         if skip_comma:
             order += userInput
+            
         else:
             order += "," + userInput
 print(order)
