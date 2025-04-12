@@ -27,17 +27,18 @@
 #     visitors += 1
 #     print("Number of visitors : " + str(visitors))
 
-order = ""
-skip_comma = True
+# order = ""
+# skip_comma = True
 
-while True :
-    userInput = input("What item do you want to order?")
-    if userInput == "end":
-        break
-    else:
-        if skip_comma:
-            order += userInput
-            skip_comma = False
-        else:
-            order += "," + userInput
-print(order)
+# while True :
+#     userInput = input("What item do you want to order?")
+#     if userInput == "end":
+#         break
+#     else:
+#         if skip_comma:
+#             order += userInput
+#             skip_comma = False
+#         else:
+#             order += "," + userInput
+# print(order)
+
