@@ -6,7 +6,7 @@
 #     print("The number is divisible by 3 abd 5")
 # else:
 #     print("The number is not divisible by 3 abd 5")
-max_
+max_visitors = 30
 visitors = 0
 while visitors < 50 :
     visitors += 1
