@@ -10,4 +10,4 @@
 visitors = 0
 while visitors < 50 :
     print("Number of visitors : " + str(visitors))
-    visitors = visitors
+    visitors += 1
