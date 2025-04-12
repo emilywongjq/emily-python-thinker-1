@@ -16,6 +16,7 @@ while True :
     if visitors == max_visitors:
         break
 
+
 # visitors = 18
 # while visitors < 30 :
 #     visitors += 1
