@@ -7,6 +7,11 @@
 # else:
 #     print("The number is not divisible by 3 abd 5")
 
+# visitors = 0
+# while visitors < 50 :
+#     visitors += 1
+#     print("Number of visitors : " + str(visitors))
+
 visitors = 0
 while visitors < 50 :
     visitors += 1
