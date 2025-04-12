@@ -12,12 +12,12 @@
 #     visitors += 1
 #     print("Number of visitors : " + str(visitors))
 
-visitors = 0
+visitors = 18
 while visitors < 50 :
     visitors += 1
     print("Number of visitors : " + str(visitors))
 
 visitors = 4
-while visitors < 50 :
+while visitors < 25 :
     visitors += 1
     print("Number of visitors : " + str(visitors))
