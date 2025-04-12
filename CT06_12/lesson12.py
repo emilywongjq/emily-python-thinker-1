@@ -9,10 +9,11 @@
 max_visitors = 30
 visitors = 0
 while True :
-    addVisitor == input("Add visitor?")
-    
-    visitors += 1
-    print("Number of visitors : " + str(visitors))
+    addVisitor = input("Add visitor?")
+    if addVisitor == "yes":
+
+        visitors += 1
+        print("Number of visitors : " + str(visitors))
 
 # visitors = 18
 # while visitors < 30 :
