@@ -29,10 +29,13 @@
 
 order = ""
 skip_comma = True
+
 while True :
     userInput = input("What item do you want to order?")
     if userInput == "end":
         break
     else:
+        if skip_comma:
+            order += userInput
         order += "," + userInput
 print(order)
