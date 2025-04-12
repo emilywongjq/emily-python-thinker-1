@@ -6,16 +6,16 @@
 #     print("The number is divisible by 3 abd 5")
 # else:
 #     print("The number is not divisible by 3 abd 5")
-max_visitors = 30
-visitors = 0
-while True :
-    addVisitor = input("Add visitor?")
-    if addVisitor == "yes":
-        visitors += 1
-        print("Number of visitors : " + str(visitors))
-    if visitors == max_visitors:
-        break
-print("Sry we are not able to fit you. im sry")
+# max_visitors = 30
+# visitors = 0
+# while True :
+#     addVisitor = input("Add visitor?")
+#     if addVisitor == "yes":
+#         visitors += 1
+#         print("Number of visitors : " + str(visitors))
+#     if visitors == max_visitors:
+#         break
+# print("Sry we are not able to fit you. im sry")
 
 # visitors = 18
 # while visitors < 30 :
@@ -26,3 +26,4 @@ print("Sry we are not able to fit you. im sry")
 # while visitors < 25 :
 #     visitors += 1
 #     print("Number of visitors : " + str(visitors))
+
