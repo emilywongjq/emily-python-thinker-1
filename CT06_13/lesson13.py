@@ -38,4 +38,4 @@ groceries = [
 groceries[7] = "Herbs"
 print(groceries)
 
-geoceries.append("Ice")
+groceries.append("Ice")
