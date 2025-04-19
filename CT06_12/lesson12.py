@@ -67,4 +67,5 @@ while True:
     print("Check balance")
     print("4.Exit")
     userChoice = int(input("What do you choose?"))
-    
+    if userChoice == 4:
+        break
