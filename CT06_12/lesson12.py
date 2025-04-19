@@ -66,4 +66,4 @@ while True:
     print("2.Deposit")
     print("Check balance")
     print("4.Exit")
-    userChoice = 
+    userChoice = int(input("What do you choose?"))
