@@ -40,4 +40,4 @@ print(groceries)
 
 groceries.append("Ice")
 groceries.insert(15,"test")
-print(g)
+print(groceries)
