@@ -9,9 +9,10 @@ while True:
     userChoice = int(input("What do you choose?"))
     if userChoice == 1:
         amount = int(input("How much money do you want to withdraw?"))
-        if amount < balance: # should check if it is also equal to the balance 
+        if amount <= balance: # should check if it is also equal to the balance 
             balance -= amount
             print(balance)
+        else:
         # missing error message
     if userChoice == 2:
         amount = int(input("How much do you want to deposit?"))
