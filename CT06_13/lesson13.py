@@ -41,6 +41,6 @@ groceries.append("Ice")
 groceries.insert(1,"Bananas")
 
 del(groceries[2])
-#Methoditem_that_was_removed = groceries.pop(3)
+#Method # 2: item_that_was_removed = groceries.pop(3)
 print(groceries)
 #════════════════════════════════════════════════════════════════════════════════════
