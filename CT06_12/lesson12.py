@@ -71,7 +71,8 @@ while True:
         amount = int(input("How much money do you want to withdraw?"))
         if amount < balance:
             balance -= amount
-            
+            print(balance)
+    
 
     if userChoice == 4:
         break
