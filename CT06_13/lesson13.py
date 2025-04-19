@@ -35,3 +35,4 @@ groceries = [
     "Grapes",
     "Honey"
 ]
+groceries[7] = 
