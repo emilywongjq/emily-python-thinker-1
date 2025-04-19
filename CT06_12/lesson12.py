@@ -73,7 +73,7 @@ while True:
             balance -= amount
             print(balance)
     if userChoice == 2:
-        amoun
+        amount = 
 
     if userChoice == 4:
         break
