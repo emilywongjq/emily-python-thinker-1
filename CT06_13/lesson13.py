@@ -13,7 +13,7 @@ while True:
             balance -= amount
             print(balance)
         else:
-            print("Error://!?U are too broke to afford this transfer of ")
+            print("Error://!?U are too broke.")
     if userChoice == 2:
         amount = int(input("How much do you want to deposit?"))
         balance += amount
