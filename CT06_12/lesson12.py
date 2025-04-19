@@ -61,4 +61,5 @@
 
 balance = 1000
 while True:
-    print("Choose between one of the four options using the option number")
+    print("Choose between one of the four options using the option number...")
+    
