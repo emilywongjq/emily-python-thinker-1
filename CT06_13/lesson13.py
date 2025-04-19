@@ -39,4 +39,5 @@ groceries[7] = "Herbs"
 print(groceries)
 
 groceries.append("Ice")
-groceries.insert(15,)
+groceries.insert(15,"test")
+print(g)
