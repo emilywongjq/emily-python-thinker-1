@@ -68,7 +68,7 @@ while True:
     print("4.Exit")
     userChoice = int(input("What do you choose?"))
     if userChoice == 1:
-        
+        amount = int()
 
     if userChoice == 4:
         break
