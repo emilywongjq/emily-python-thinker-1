@@ -59,6 +59,7 @@
 # else:
 #     print("Happy new year!!!")
 
-print("Hello there")
-print("Nice to meet you")
-print("When are we going to have the quiz???????")
+# print("Hello there")
+# print("Nice to meet you")
+# print("When are we going to have the quiz???????")
+
