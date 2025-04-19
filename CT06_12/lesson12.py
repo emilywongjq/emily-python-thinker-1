@@ -60,3 +60,5 @@
 #     print("Happy new year!!!")
 
 balance = 1000
+while True:
+    print()
