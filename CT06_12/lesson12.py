@@ -63,4 +63,5 @@ balance = 1000
 while True:
     print("Choose between one of the four options using the option number...")
     print("1.Withdraw")
-    print("2.")
+    print("2.Deposit")
+    print("")
