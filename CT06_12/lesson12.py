@@ -72,6 +72,7 @@ while True:
         if amount < balance: # should check if it is also equal to the balance 
             balance -= amount
             print(balance)
+        # missing error message
     if userChoice == 2:
         amount = int(input("How much do you want to deposit?"))
         balance += amount
