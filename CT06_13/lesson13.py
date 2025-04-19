@@ -25,15 +25,15 @@
 #         break# balance = 1000
 # ₊˚ ✧ __________________________________________⊱⋆⊰_________________________________________________________ ✧ ₊˚#
 
-groceries = [
-    "Apples",
-    "Bread",
-    "Carrots",
-    "Dates",
-    "Eggs",
-    "Flour",
-    "Grapes",
-    "Honey"
-]
-groceries[7] = "Herbs"
-print(groceries)
+# groceries = [
+#     "Apples",
+#     "Bread",
+#     "Carrots",
+#     "Dates",
+#     "Eggs",
+#     "Flour",
+#     "Grapes",
+#     "Honey"
+# ]
+# groceries[7] = "Herbs"
+# print(groceries)
