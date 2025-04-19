@@ -27,5 +27,6 @@
 
 groceries = [
     "Apples",
-    "Bread"
+    "Bread",
+    "Carrots"
 ]
