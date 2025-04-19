@@ -41,5 +41,6 @@ groceries.append("Ice")
 groceries.insert(1,"Bananas")
 
 del(groceries[2])
+
 print(groceries)
 #════════════════════════════════════════════════════════════════════════════════════
