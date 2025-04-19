@@ -39,3 +39,4 @@ groceries[7] = "Herbs"
 print(groceries)
 
 groceries.append("Ice")
+groceries.insert(15,)
