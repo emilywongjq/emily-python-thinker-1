@@ -76,6 +76,6 @@ while True:
         amount = int(input("How much do you want to deposit?"))
         balance += amount
     if userChoice == 3:
-        print
+        print(balance)
     if userChoice == 4:
         break
