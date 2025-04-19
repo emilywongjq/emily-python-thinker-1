@@ -36,3 +36,4 @@ groceries = [
     "Honey"
 ]
 groceries[7] = "Herbs"
+print(G)
