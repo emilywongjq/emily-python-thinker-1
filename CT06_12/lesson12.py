@@ -73,7 +73,8 @@ while True:
             balance -= amount
             print(balance)
     if userChoice == 2:
-        amount = int(input("How much doy"))
+        amount = int(input("How much do you want to deposit?"))
+        
 
     if userChoice == 4:
         break
