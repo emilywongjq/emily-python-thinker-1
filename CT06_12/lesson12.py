@@ -59,4 +59,4 @@
 # else:
 #     print("Happy new year!!!")
 
-balance = 
+balance = 1000
