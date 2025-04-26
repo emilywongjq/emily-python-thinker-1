@@ -62,3 +62,4 @@ while True:
         break
     else:
         user_toppings.append(pizza_toppings[int(user_input) - 1])
+        
