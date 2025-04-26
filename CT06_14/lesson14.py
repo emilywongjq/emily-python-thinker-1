@@ -1,2 +1,2 @@
 import turtle 
-window = 
+window = turtle.Screen()
