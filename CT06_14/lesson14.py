@@ -8,7 +8,7 @@ t.fillcolor('green')
 t.seth(0)
 for i in range(4):
     t.pendown()
-    t.left(90)
+    t.left(25)
     t.forward(100)
 t.pendown()
 window.mainloop()
