@@ -51,4 +51,4 @@ pizza_toppings = [
     'Cheese'
 ]
 for n in range(len(pizza_toppings)):
-    print()
+    print(str(n+1) + '.' + )
