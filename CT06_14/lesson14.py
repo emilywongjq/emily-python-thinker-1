@@ -6,9 +6,9 @@ t.shape('turtle')
 t.fillcolor('green')
 
 t.seth(0)
-for i in range(4):
+for i in range(360):
     t.pendown()
-    t.left(120)
+    t.left()
     t.forward(100)
 t.pendown()
 window.mainloop()
