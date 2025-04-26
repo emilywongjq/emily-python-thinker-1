@@ -6,6 +6,6 @@ t.shape('turtle')
 t.fillcolor('green')
 
 t.seth(0)
-
-t.pendown
+for i in range(3):
+    t.pendown
 window.mainloop()
