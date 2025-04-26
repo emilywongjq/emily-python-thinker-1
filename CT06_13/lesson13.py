@@ -53,3 +53,6 @@ pizza_toppings = [
 for n in range(len(pizza_toppings)):
     print('The available toppings are: ')
     print(str(n+1) + '.' + pizza_toppings[n])
+
+while True:
+    input('What ')
