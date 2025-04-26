@@ -50,4 +50,5 @@ pizza_toppings = [
     'Pepperoni',
     'Cheese'
 ]
-
+for n in range(len(pizza_toppings)):
+    print()
