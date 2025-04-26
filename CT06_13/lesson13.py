@@ -48,5 +48,6 @@ print(groceries)
 pizza_toppings = [
     'Mushrooms',
     'Pepperoni',
-    
+    'Cheese'
 ]
+
