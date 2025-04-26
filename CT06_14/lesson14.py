@@ -8,5 +8,5 @@ t.fillcolor('green')
 t.seth(0)
 for i in range(3):
     t.pendown()
-    
+    t.Tu
 window.mainloop()
