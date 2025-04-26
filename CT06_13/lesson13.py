@@ -57,3 +57,5 @@ for n in range(len(pizza_toppings)):
 
 while True:
     user_input = int(input('Please choose your pizza topping by number :'))
+    if user_input == 'end':
+        break
