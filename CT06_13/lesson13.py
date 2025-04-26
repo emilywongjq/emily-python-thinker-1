@@ -25,24 +25,24 @@
 #         break# balance = 1000
 # ₊˚ ✧ __________________________________________⊱⋆⊰_________________________________________________________ ✧ ₊˚#
 
-groceries = [
-    "Apples",
-    "Bread",
-    "Carrots",
-    "Dates",
-    "Eggs",
-    "Flour",
-    "Grapes",
-    "Honey"
-]
-groceries[7] = "Herbs"
+# groceries = [
+#     "Apples",
+#     "Bread",
+#     "Carrots",
+#     "Dates",
+#     "Eggs",
+#     "Flour",
+#     "Grapes",
+#     "Honey"
+# ]
+# groceries[7] = "Herbs"
 
-groceries.append("Ice")
-groceries.insert(1,"Bananas")
+# groceries.append("Ice")
+# groceries.insert(1,"Bananas")
 
-del(groceries[2])#method 1
-#Method # 2: item_that_was_removed = groceries.pop(3)
-print(groceries)
+# del(groceries[2])#method 1
+# #Method # 2: item_that_was_removed = groceries.pop(3)
+# print(groceries)
 #════════════════════════════════════════════════════════════════════════════════════
 
 pizza_toppings = [
