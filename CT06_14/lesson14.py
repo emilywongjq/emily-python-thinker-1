@@ -5,5 +5,5 @@ t = turtle.Turtle()
 t.shape('turtle')
 t.fillcolor('green')
 
-t.seth(90)
+t.seth(270)
 window.mainloop()
