@@ -56,4 +56,5 @@ for n in range(len(pizza_toppings)):
     print(str(n+1) + '.' + pizza_toppings[n])
 
 while True:
-    input('Please choose your pizza topping by number :')
+    user_input = input('Please choose your pizza topping by number :')
+    
