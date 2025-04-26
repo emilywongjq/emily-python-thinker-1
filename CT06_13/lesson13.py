@@ -51,6 +51,7 @@ pizza_toppings = [
     'Cheese',
     'Extra Cheese'
 ]
+user_toppings = []
 for n in range(len(pizza_toppings)):
     print('The available toppings are: ')
     print(str(n+1) + '.' + pizza_toppings[n])
