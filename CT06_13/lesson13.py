@@ -59,3 +59,6 @@ while True:
     user_input = int(input('Please choose your pizza topping by number :'))
     if user_input == 'end':
         break
+    else:
+        user_toppings = [
+        ]
