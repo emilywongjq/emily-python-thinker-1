@@ -9,6 +9,6 @@ t.seth(0)
 for i in range(5):
     t.pendown()
     t.left(72)
-    t.forward(1)
+    t.forward(50)
 t.pendown()
 window.mainloop()
