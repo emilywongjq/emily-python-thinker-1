@@ -6,4 +6,5 @@ t.shape('turtle')
 t.fillcolor('green')
 
 t.seth(0)
+
 window.mainloop()
