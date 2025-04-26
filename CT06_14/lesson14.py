@@ -6,5 +6,5 @@ t.shape('turtle')
 t.fillcolor('green')
 
 t.seth(0)
-
+t.forward(100)
 window.mainloop()
