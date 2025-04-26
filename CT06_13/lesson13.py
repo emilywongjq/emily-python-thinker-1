@@ -48,7 +48,8 @@
 pizza_toppings = [
     'Mushrooms',
     'Pepperoni',
-    'Cheese'
+    'Cheese',
+    ''
 ]
 for n in range(len(pizza_toppings)):
     print('The available toppings are: ')
