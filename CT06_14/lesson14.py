@@ -6,7 +6,7 @@ t.shape('turtle')
 t.fillcolor('green')
 
 t.seth(0)
-for i in range(3):
+for i in range(6):
     t.pendown()
     t.left(60)
     t.forward(100)
