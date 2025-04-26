@@ -52,7 +52,7 @@ pizza_toppings = [
     'Extra Cheese'
 ]
 user_toppings = []
-print('The avai')
+print('The available toppings are:')
 for n in range(len(pizza_toppings)):
     print(str(n+1) + '.' + pizza_toppings[n])
 
