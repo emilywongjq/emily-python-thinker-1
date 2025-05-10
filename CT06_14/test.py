@@ -65,6 +65,6 @@ planets[3] = "muskworld"
 
 # 4. Remove uranus from this list.
 del(planets[6])
-
+print(planets)
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
