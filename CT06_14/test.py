@@ -33,4 +33,4 @@ user_input = input("What is the password?  : ") # ask the user for the password
 if user_input == pwd:
     print("Access Granted") # Grant access because the question says so
 else:
-    print("Acces Denied") 
+    print("Acces Denied") #  do not grant access because the question says so
