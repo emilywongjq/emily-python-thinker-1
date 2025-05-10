@@ -27,7 +27,7 @@
 # Write your code here:
 
 
-pwd = "superpass123"
+pwd = "superpass123" # this
 
 user_input = input("What is the password?  : ")
 if user_input == pwd:
