@@ -8,7 +8,20 @@
 # Write your code here:
 
 
-number = 10 #set the number to 10
-while number <= 200 :#it will only stop at 200
-    print(number) #print the number
-    number += 10 #interval of 10
+# number = 10 #set the number to 10
+# while number <= 200 :#it will only stop at 200
+#     print(number) #print the number
+#     number += 10 #interval of 10
+
+
+
+
+# Task 2
+# Code a password checker to protect your code!
+
+# Assign a password "superpass123" to a variable
+# Ask the user to enter a password
+# If the password matches, print “Access Granted”
+# If the password does not match, print “Access Denied”
+
+# Write your code here
