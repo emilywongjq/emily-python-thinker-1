@@ -29,8 +29,8 @@
 
 pwd = "superpass123" # setting the password
 
-user_input = input("What is the password?  : ")
+user_input = input("What is the password?  : ") # ask the user for the password
 if user_input == pwd:
-    print("Access Granted")
+    print("Access Granted") 
 else:
     print("Acces Denied")
