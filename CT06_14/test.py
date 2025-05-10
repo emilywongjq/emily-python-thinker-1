@@ -62,7 +62,7 @@ planets.append("neptune")
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
 planets[3] = "muskworld"
-print
+print(planets)
 
 # 4. Remove uranus from this list.
 
