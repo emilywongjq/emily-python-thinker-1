@@ -24,4 +24,7 @@
 # If the password matches, print “Access Granted”
 # If the password does not match, print “Access Denied”
 
-# Write your code here
+# Write your code here:
+
+
+pwd = superpass123
