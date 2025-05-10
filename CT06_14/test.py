@@ -33,4 +33,4 @@ user_input = input("What is the password?  : ")
 if user_input == pwd:
     print("Access Granted")
 else:
-    print()
+    print("Acces Denied")
