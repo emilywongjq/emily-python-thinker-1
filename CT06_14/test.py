@@ -11,4 +11,4 @@
 number = 10 #set the number to 10
 while number <= 200 :#it will only stop at 200
     print(number) #print the number
-    number += 10
+    number += 10 #interval of 10
