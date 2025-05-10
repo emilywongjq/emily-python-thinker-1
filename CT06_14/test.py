@@ -46,7 +46,10 @@
 planets = [
     "mercury",
     "venus", 
-    "earth", "mars", "jupiter", "saturn", "uranus" ]
+    "earth",
+    "mars", 
+    "jupiter", 
+    "saturn", "uranus" ]
 
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
