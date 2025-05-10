@@ -6,7 +6,9 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here:
+
+
 number = 10 #set the number to 10
-while number <= 200 :
+while number <= 200 :#
     print(number)
     number += 10
