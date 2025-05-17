@@ -92,3 +92,7 @@ def isEven (num):
     return num % 2 == 0
 
 numbers = [3, 9, 7, 6, 4, 8]
+
+for n in numbers:
+    if isEven(n):
+        print("")
