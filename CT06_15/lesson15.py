@@ -149,3 +149,5 @@
 # Example:
 # sum_of_squares(3, 4) >>> 25
 
+def sum_of_squares():
+    return
