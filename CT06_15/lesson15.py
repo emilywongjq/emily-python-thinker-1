@@ -47,6 +47,7 @@ def draw_square (size):
         turtle.pendown()
         turtle.forward(size)
         turtle.right(90)
+
 turtle.goto(x = 0, y = 0)
 draw_square()
 
