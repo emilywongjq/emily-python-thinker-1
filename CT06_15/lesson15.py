@@ -148,6 +148,7 @@
 
 # Example:
 # sum_of_squares(3, 4) >>> 25
-
+def square(num):
+     return num*num
 def sum_of_squares(num1, num2):
     return square 
