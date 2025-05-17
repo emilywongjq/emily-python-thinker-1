@@ -89,4 +89,4 @@
 #     "2 is an even number"
 
 def isEven (num):
-    num % 
+    return num % 2 == 0
