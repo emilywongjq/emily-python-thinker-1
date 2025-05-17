@@ -139,6 +139,7 @@ def square(num):
     return num*num
 
 
+
 # **Task 9b**:
 # Create a function 'sum_of_squares()' that will take in 2 numbers and
 # return the sum of each of the number squared. You must use the
