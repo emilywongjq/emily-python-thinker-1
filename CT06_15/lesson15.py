@@ -22,3 +22,19 @@
 # increment_counter()
 
 # print (counter)
+
+# ---------------------------------------------------------------------
+
+# # Task 4: Square to Square
+# Use a function with parameters to draw 7 squares to form the pattern
+# shown on the screen.
+
+# 1. Import the 'turtle' library
+# 2. Create a 400x400 screen
+# 3. Create a function "draw_square" with a "size" parameter
+# 4. The "draw_square" function will draw a square of size*size around
+#    the (0,0) coordinate.
+# 5. Within a 'for' loop, use the draw_square function you have created
+#    to draw 7 squares around the (0,0) coordinate with the following
+#    sizes:
+#         50, 100, 150, 200, 250, 300, 350
