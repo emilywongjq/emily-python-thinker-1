@@ -73,7 +73,7 @@ def doubleNumber(num):
 
 numbers = [4, 9, 1530, 284]
 
-doubleNumber
+doubleNumber(numbers)
 # ---------------------------------------------------------------------
 
 # # Task 6: Greetings III
