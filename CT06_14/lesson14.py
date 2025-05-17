@@ -5,10 +5,10 @@ t = turtle.Turtle()
 t.shape('turtle')
 t.fillcolor('green')
 
-t.seth(0)
-for i in range(5):
-    t.pendown()
-    t.left(72)
-    t.forward(50)
-t.pendown()
+# t.seth(0)
+# for i in range(5):
+#     t.pendown()
+#     t.left(72)
+#     t.forward(50)
+# t.pendown()
 window.mainloop()
