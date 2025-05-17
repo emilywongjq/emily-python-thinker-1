@@ -138,7 +138,8 @@
 def square(num):
     return num*num
 
-user
+num1 = 7
+
 
 # **Task 9b**:
 # Create a function 'sum_of_squares()' that will take in 2 numbers and
