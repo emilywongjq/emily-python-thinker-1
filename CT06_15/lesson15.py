@@ -40,7 +40,7 @@
 #         50, 100, 150, 200, 250, 300, 350
 
 import turtle
-window = turtle.screen()
+window = turtle.Screen()
 window.setup(width = 400, height = 400)
 def draw_square (size):
     for i in range(4):
