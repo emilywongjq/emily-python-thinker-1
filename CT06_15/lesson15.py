@@ -69,7 +69,7 @@
 def doubleNumber(num):
     for n in num:
         num1 = n * 2
-        print('Double of ' + str('n') + ' is ' + str(num1))
+        print('Double of ' + str(n) + ' is ' + str(num1))
 
 numbers = [4, 9, 1530, 284]
 
