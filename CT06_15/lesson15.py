@@ -95,6 +95,6 @@ numbers = [3, 9, 7, 6, 4, 8]
 
 for n in numbers:
     if isEven(n):
-        print(str(n) + "is an even number")
+        print(str(n) + " is an even number")
     else:
-        print(str(n) + "is an odd number")
+        print(str(n) + " is an odd number")
