@@ -69,7 +69,7 @@
 def doubleNumber(num):
     for n in num:
         num1 = n * 2
-        print()
+        print('Double of ' + str)
 # ---------------------------------------------------------------------
 
 # # Task 6: Greetings III
