@@ -135,11 +135,11 @@
 # Example:
 # square(3) >>> 9
 
-def square(num):
-    return num*num
+# def square(num):
+#     return num*num
 
-num1 = 7
-print(square(num1))
+# num1 = 7
+# print(square(num1))
 
 # **Task 9b**:
 # Create a function 'sum_of_squares()' that will take in 2 numbers and
@@ -148,3 +148,4 @@ print(square(num1))
 
 # Example:
 # sum_of_squares(3, 4) >>> 25
+
