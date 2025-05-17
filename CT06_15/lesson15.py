@@ -41,3 +41,4 @@
 
 import turtle
 window = turtle.screen()
+window.setup
