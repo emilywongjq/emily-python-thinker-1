@@ -47,3 +47,43 @@
 #     for i in range(4):
 
 #     turtle.pendown()
+
+# ---------------------------------------------------------------------
+
+# # Task 5: Double the Number
+# Create a function that takes in a number and doubles it
+
+# 1. Create a function named 'doubleNumber()'
+# 2. The function should return the doubled number
+# 3. Using the 'doubleNumber()' function, print the doubles of the
+#    following numbers:
+#     4
+#     9
+#     1530
+#     284
+
+# ---------------------------------------------------------------------
+
+# # Task 6: Greetings III
+# Create a function that takes in a name and returns a greeting
+
+# 1. Create a function named 'greet()'
+# 2. The function should return a greeting
+#     Example: "Hello there !"
+# 3. Ask the user for their name
+# 4. Using the 'greet()' function, print the greeting
+
+# ----------------------------------------------------------------------
+
+# # Task 7: Even or Odd? III
+# Create a function that takes in a number and returns whether it is
+# even
+
+# 1. Create a function named isEven()
+# 2. If the number is even, the function should return True
+# 3. If the number is odd, the function should return False
+# 4. Using the 'isEven()' function, loop through a list of numbers and
+#    print them out in this format:
+#     "3 is an odd number"
+#     "9 is an odd number"
+#     "2 is an even number"
