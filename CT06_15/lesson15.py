@@ -153,3 +153,4 @@ def square(num):
 def sum_of_squares(num1, num2):
     return square(num1) + square(num2)
 
+sum_of_squares()
