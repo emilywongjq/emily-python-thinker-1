@@ -139,7 +139,7 @@ def square(num):
     return num*num
 
 num1 = 7
-square(num1)
+print(square(num1))
 
 # **Task 9b**:
 # Create a function 'sum_of_squares()' that will take in 2 numbers and
