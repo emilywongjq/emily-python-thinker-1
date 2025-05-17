@@ -97,4 +97,4 @@ for n in numbers:
     if isEven(n):
         print(str(n) + "is an even number")
     else:
-        print()
+        print(str(n))
