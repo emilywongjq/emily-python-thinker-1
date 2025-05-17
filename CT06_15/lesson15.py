@@ -73,7 +73,7 @@
 
 # numbers = [4, 9, 1530, 284]
 
-# doubleNumber(numbers)
+# print(doubleNumber(numbers))
 # ---------------------------------------------------------------------
 
 # # Task 6: Greetings III
