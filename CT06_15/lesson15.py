@@ -95,4 +95,4 @@ numbers = [3, 9, 7, 6, 4, 8]
 
 for n in numbers:
     if isEven(n):
-        print(str(n))
+        print(str(n) + "is eve")
