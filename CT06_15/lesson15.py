@@ -38,3 +38,5 @@
 #    to draw 7 squares around the (0,0) coordinate with the following
 #    sizes:
 #         50, 100, 150, 200, 250, 300, 350
+
+inpo
