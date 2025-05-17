@@ -155,4 +155,4 @@ def sum_of_squares(num1, num2):
 
 print(sum_of_squares(3,4))
 print(sum_of_squares(2,7))
-print(sum_of_squares(3,4))
+print(sum_of_squares(9,5))
