@@ -40,3 +40,4 @@
 #         50, 100, 150, 200, 250, 300, 350
 
 import turtle
+window = turtle.screen()
