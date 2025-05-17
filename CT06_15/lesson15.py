@@ -71,7 +71,9 @@ def doubleNumber(num):
         num1 = n * 2
         print('Double of ' + str('n') + ' is ' + str(num1))
 
-numbers = [4, 9, 1530, ]
+numbers = [4, 9, 1530, 284]
+
+double
 # ---------------------------------------------------------------------
 
 # # Task 6: Greetings III
