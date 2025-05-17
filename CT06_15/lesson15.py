@@ -50,7 +50,7 @@ def draw_square (size):
 length = 10
 turtle.goto(x = 0, y = 0)
 draw_square(length)
-
+window.mainloop()
 
 # ---------------------------------------------------------------------
 
