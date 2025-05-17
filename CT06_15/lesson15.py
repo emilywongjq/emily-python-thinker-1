@@ -66,14 +66,14 @@
 #     1530
 #     284
 
-# def doubleNumber(num):
-#     for n in num:
-#         num1 = n * 2
-#         print('Double of ' + str('n') + ' is ' + str(num1))
+def doubleNumber(num):
+    for n in num:
+        num1 = n * 2
+        print('Double of ' + str('n') + ' is ' + str(num1))
 
-# numbers = [4, 9, 1530, 284]
+numbers = [4, 9, 1530, 284]
 
-# print(doubleNumber(numbers))
+print(doubleNumber(numbers))
 # ---------------------------------------------------------------------
 
 # # Task 6: Greetings III
