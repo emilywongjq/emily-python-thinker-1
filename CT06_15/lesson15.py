@@ -41,7 +41,7 @@
 
 import turtle
 window = turtle.screen()
-window.setup(width = 400,height = 400)
+window.setup(width = 400, height = 400)
 def draw_square (size):
     for i in range(4):
         turtle.pendown()
