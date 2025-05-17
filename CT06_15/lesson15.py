@@ -88,13 +88,45 @@
 #     "9 is an odd number"
 #     "2 is an even number"
 
-def isEven (num):
-    return num % 2 == 0
+# def isEven (num):
+#     return num % 2 == 0
 
-numbers = [3, 9, 7, 6, 4, 8]
+# numbers = [3, 9, 7, 6, 4, 8]
 
-for n in numbers:
-    if isEven(n):
-        print(str(n) + " is an even number")
-    else:
-        print(str(n) + " is an odd number")
+# for n in numbers:
+#     if isEven(n):
+#         print(str(n) + " is an even number")
+#     else:
+#         print(str(n) + " is an odd number")
+
+# ----------------------------------------------------------------------
+   
+# # Task 8: Age Group
+# Create a function that will take in someone's age and return either
+# 'Child' (Below 13), 'Teen' (14-20), 'Adult' (21-64), or
+# 'Senior' (65 and above) based on the age provided.
+
+# 1. Define the function 'ageGroup()' with one parameter: 'age'.
+# 2. Use 'if-elif-else' statements to return the appropriate age group
+#    based on the 'age' parameter
+
+# ----------------------------------------------------------------------
+
+# # Task 9: Calling a function within a function
+# **Task 9a**:
+# Create a function 'square()' that will take in a number and return
+# the squared value of the number. Squared is when the number is
+# multiplied by itself.
+
+# For example, "5 squared" is 5x5, giving us 25.
+
+# Example:
+# square(3) >>> 9
+
+# **Task 9b**:
+# Create a function 'sum_of_squares()' that will take in 2 numbers and
+# return the sum of each of the number squared. You must use the
+# 'square()' function within the 'sum_of_squares()' function.
+
+# Example:
+# sum_of_squares(3, 4) >>> 25
