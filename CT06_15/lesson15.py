@@ -150,4 +150,4 @@
 # sum_of_squares(3, 4) >>> 25
 
 def sum_of_squares(num1, num2):
-    return
+    return square 
