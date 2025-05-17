@@ -136,7 +136,8 @@
 # square(3) >>> 9
 
 def square(num):
-    return
+    return num*num
+
 
 # **Task 9b**:
 # Create a function 'sum_of_squares()' that will take in 2 numbers and
