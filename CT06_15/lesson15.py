@@ -39,14 +39,16 @@
 #    sizes:
 #         50, 100, 150, 200, 250, 300, 350
 
-# import turtle
-# window = turtle.screen()
-# window.setup(width = 400 height = 400)
-# def draw_square (size):
-#     turtle.seth()
-#     for i in range(4):
-
-#     turtle.pendown()
+import turtle
+window = turtle.screen()
+window.setup(width = 400,height = 400)
+def draw_square (size):
+    for i in range(4):
+        turtle.pendown()
+        turtle.forward(size)
+        turtle.right(90)
+turtle.goto(x = 0, y = 0)
+draw_square()
 
 # ---------------------------------------------------------------------
 
